@@ -1,2 +1,2 @@
 # SQL
-my little passion practice
+my little passion
