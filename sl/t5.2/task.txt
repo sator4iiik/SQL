@@ -1,0 +1,36 @@
+`````````````````````````````````````````````````
+CUSTOMER COPIES
+_________________________________________________
+task 01 id 5.2
+``````````````
+The DISTINCT Keyword
+
+At the conclusion of a bank transaction, 6 checks
+are printed -- 3 originals for the bank, and 3 
+copies for the customer. Here is the list of all 
+the checks named 'Operation'
+
+-------------------------------------------------
+           id           |       checks
+------------------------+------------------------
+            1           |       Check1
+------------------------+------------------------
+            2           |       Check2
+------------------------+------------------------
+            3           |       Check3
+------------------------+------------------------
+            4           |       Check4
+------------------------+------------------------
+            5           |       Check5
+------------------------+------------------------
+            6           |       Check6
+------------------------+------------------------
+
+Write a query to show only the unique checks that
+are given to the customer.
+
+=================================================
+Use the DISTINCT statement to return the unique 
+values of mentioned column.
+=================================================
+`````````````````````````````````````````````````

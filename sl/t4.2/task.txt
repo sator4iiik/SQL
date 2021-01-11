@@ -1,8 +1,9 @@
 ``````````````````````````````````````````````````
-SELECTING MULTIPLE COLUMNS
+BEST BEFORE
 _________________________________________________
 task 00 id 4.2
-
+``````````````
+SELECTING MULTIPLE COLUMNS
 
 When buying food, it is important to make sure
 it is fresh and not expired. You are given the
@@ -19,7 +20,8 @@ Milk        |$520.00|  2020-08-19  |  2020-08-23
 --------------------------------------------------
 
 Write a query to select the 
-ProductName, ProductionDate and ExpirationDate.
+ProductName, ProductionDate and ExpirationDate
+to make sure the product is fresh.
 
 =================================================
 Use the SELECT statement and separate 
